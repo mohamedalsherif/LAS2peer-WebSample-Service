@@ -1,0 +1,2 @@
+agent-WebSampleService.xml;webSampleServicePass
+agent-UserA.xml;userAPass
