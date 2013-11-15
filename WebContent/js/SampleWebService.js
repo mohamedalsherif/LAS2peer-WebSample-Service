@@ -33,6 +33,7 @@
 					console.log("Error! Message: " + result);
 				}
 			});
+			AddTextBoxes([]);
 		}
 		
 		
