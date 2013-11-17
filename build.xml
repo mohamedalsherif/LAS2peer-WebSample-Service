@@ -149,7 +149,7 @@
 			<packageset dir="${src.main}" defaultexcludes="yes">
 				<include name="i5/las2peer/**" />
 			</packageset>
-			<bottom><![CDATA[<p class="bottom">Copyright &#169; 2013 by Peter de Lange, Aachen, Germany. All Rights Reserved.</p>]]></bottom>
+			<bottom><![CDATA[<p class="bottom">Copyright &#169; 2013 by Mohamed El Sherif, Aachen, Germany. All Rights Reserved.</p>]]></bottom>
 		</javadoc>
 	</target>
 	
