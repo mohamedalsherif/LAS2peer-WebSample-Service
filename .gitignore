@@ -5,3 +5,5 @@
 /log
 /lib
 /ivy/ivy.jar
+/.class
+/build/classes/i5/las2peer/services/webSampleService/WebSampleService.class
