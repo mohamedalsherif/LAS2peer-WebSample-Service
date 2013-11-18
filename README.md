@@ -1,7 +1,7 @@
 LAS2peer-WebSample-Service
 ==========================
 
-This is a sample Service that uses the LAS Ajax Client to demonstrate Service methods
+This is a sample Service that uses the LAS Ajax Client to demonstrate Service methods.
 
 
 This tutorial serves as a very basic tutorial to the LAS2Peer Project. This service runs on a local LAS2Peer node and does not require any additional software to be installed.
@@ -14,10 +14,10 @@ Open a web browser and open "WebContent/index.html" to test your service.  Be aw
 
 After successfully viewing the "index.html" and logging in, you can test the service methods that are in the Web Sample Service. In order to add or change methods in the service you need to do the following steps:
 
-a) After changing the Service code, build using ant.
+a) After changing the Service code, build using ant
 
-b) Close the node that's running on the localhost:8080.
+b) Close the node that's running on the localhost:8080
 
-c) Reopen the node again (by running the only script in "scripts/").
+c) Reopen the node again (by running the only script in "scripts/")
 
-d) Refresh the browser and check the changes you have done.
+d) Refresh the browser and check the changes you have done
