@@ -73,7 +73,7 @@ public class WebSampleService extends Service
 	}
 	
 	/**
-	 * a test Method that returns a formatted string that contains the given string parameter and the user agents login name 
+	 * a test Method that returns a formatted string that contains the given string parameter and the user agents' login name 
 	 * @param firstMessage the first part of the string that will be returned  
 	 * @param ignoredNumber an unused integer demonstrating a method with two different parameters 
 	 * @return a formatted string that contains the given input string and the agents login name
@@ -94,11 +94,11 @@ public class WebSampleService extends Service
 		randomNumber++;
 	}
 	/**
-	 * a get Method that returns the randomNumber added to all the input integers
+	 * a method that returns the randomNumber added to all the input integers
 	 * @param a first number
 	 * @param b second number 
 	 * @param c third number 
-	 * @return the sum of all the input numbers added to the private instance variable randomNumber
+	 * @return the sum of all the input numbers added to the private variable randomNumber
 	 */
 	public int getRandomNumber(int a,int b,int c)
 	{
