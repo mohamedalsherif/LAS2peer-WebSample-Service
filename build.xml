@@ -192,5 +192,5 @@
 	</target>
 	
 	<target name="all" depends="WebSampleService_jar, junit, java_doc, clean" />
-	
+		
 </project>

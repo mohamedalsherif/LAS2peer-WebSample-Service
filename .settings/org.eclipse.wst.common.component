@@ -2,6 +2,7 @@
     <wb-module deploy-name="LAS2Peer WebSample Service">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/junit"/>
         <property name="context-root" value="LAS2Peer_WebSample_Service"/>
         <property name="java-output-path" value="/LAS2Peer WebSample Service/build/classes"/>
     </wb-module>
